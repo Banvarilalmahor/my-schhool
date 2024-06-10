@@ -1,0 +1,38 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav{
+    background-color: rgb(22, 21, 21);
+    width: 100%;
+    height: 65Px;
+    padding:0px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 80px;
+}
+.aman{
+  background: url("image/fp-home.jpg");
+  text-decoration: none;
+  width: 100%;
+  height: 400px;
+background-position: center;
+background-size: cover;
+margin: 1px;
+}
+.manu{
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: yellow;
+  padding: 0 10px;
+  text-transform: lowercase;
+}
+.aman h1{
+  text-align: center;
+  color: red;
+  font-size: 40px;
+  text-transform: lowercase;
+  padding-top: 120px;
+}
